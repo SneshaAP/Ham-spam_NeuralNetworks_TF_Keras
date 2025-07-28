@@ -1,3 +1,18 @@
+"""
+Spam vs Ham Classifier using Neural Networks (Keras)
+
+Author: Snesha Aamalepatil
+Description:
+    A simple neural network built using Keras and TensorFlow to classify SMS messages
+    as spam or ham (not spam). Text preprocessing uses CountVectorizer, and the
+    model uses Dense layers with dropout regularization.
+
+Dataset:
+    SMS Spam Collection Dataset from UCI Repository or equivalent.
+    Path in script: /content/archive (6).zip
+
+License: MIT (or any other license you prefer)
+
 # -*- coding: utf-8 -*-
 """Ham&spam_NeuralNetworks_TF_Keras - snesha
 
